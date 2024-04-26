@@ -1,12 +1,5 @@
-# miro-clone-nextjs
 
-![GitHub repo size](https://img.shields.io/github/repo-size/evanch98/miro-clone-nextjs)
-![GitHub stars](https://img.shields.io/github/stars/evanch98/miro-clone-nextjs?style=social)
-![GitHub forks](https://img.shields.io/github/forks/evanch98/miro-clone-nextjs?style=social)
-
-<br />
-February, 2024. <br />
-Full-stack Miro Clone project built by using Next JS 14, React, TypeScript, Shadcn UI, Tailwind CSS, Convex Database, Zustand, liveblocks, and Clerk Auth.
+Mirrow is a Full-stack Miro Clone project built by using Next JS 14, React, TypeScript, Shadcn UI, Tailwind CSS, Convex Database, Zustand, liveblocks, and Clerk Auth.
 
 ## Features
 
@@ -52,30 +45,3 @@ npm run dev
 ```
 
 5. **Start building and customizing your Miro Clone!**
-
-## Technologies Used
-
-- [Next.js](https://nextjs.org/)
-- [React](https://react.dev/)
-- [TailwindCSS](https://tailwindcss.com/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Convex](https://www.convex.dev/)
-- [Clerk Auth](https://clerk.com/)
-- [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)
-- [Shadcn UI](https://ui.shadcn.com/)
-- [Liveblocks](https://liveblocks.io/)
-
-## Acknowledgements
-
-- [class-variance-authority](https://www.npmjs.com/package/class-variance-authority)
-- [clsx](https://www.npmjs.com/package/clsx)
-- [cmdk](https://www.npmjs.com/package/cmdk)
-- [date-fns](https://www.npmjs.com/package/date-fns)
-- [lucide-react](https://www.npmjs.com/package/lucide-react)
-- [nanoid](https://www.npmjs.com/package/nanoid)
-- [perfect-freehand](https://www.npmjs.com/package/perfect-freehand)
-- [query-string](https://www.npmjs.com/package/query-string)
-- [react-contenteditable](https://www.npmjs.com/package/react-contenteditable)
-- [sonner](https://www.npmjs.com/package/sonner)
-- [tailwind-merge](https://www.npmjs.com/package/tailwind-merge)
-- [usehooks-ts](https://www.npmjs.com/package/usehooks-ts)
